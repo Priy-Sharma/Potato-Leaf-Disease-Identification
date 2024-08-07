@@ -30,6 +30,7 @@ Potato_Leaf_Disease_Identifier.ipynb
 <p>Run the notebook cells sequentially to execute the code and analyze the results.</p>
 <h2>Dataset</h2>
 <p>The dataset used for this project contains images of potato leaves, categorized into three classes:</p>
+The source of data is https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 <ul>
         <li><strong>Potato_Early_blight</strong> - Images of potato leaves affected by early blight.</li>
         <li><strong>Potato_Late_blight</strong> - Images of potato leaves affected by late blight.</li>
@@ -47,12 +48,6 @@ Potato_Leaf_Disease_Identifier.ipynb
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<h2>Contact</h2>
-<p>If you have any questions or feedback, please reach out to Priy Sharma at <a href="mailto:priy.sharma@example.com">priy.sharma@example.com</a>.</p>
 
 <h2>Additional Resources</h2>
     <p>For a detailed walkthrough of the project, refer to the Jupyter Notebook available at the following link:</p>
