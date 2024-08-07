@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Potato Leaf Disease Identification - README</title>
-</head>
-<body>
+
     <h1>Potato Leaf Disease Identification</h1>
     <p>This project aims to develop a machine learning model using Convolutional Neural Networks (CNN) with TensorFlow and Keras to identify and classify potato leaf diseases. The dataset used in this project includes images of potato leaves categorized into three classes:</p>
     <ul>
